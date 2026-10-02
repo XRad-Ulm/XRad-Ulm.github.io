@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: docs
+
+description-meta: "Website of the Section of Experimental Radiology (XRaD), Ulm University Medical Center"
+author-meta: "XRaD"
+
+website:
+  title: "Experimental Radiology"
+  image: "files/images/XRAD_hoch_E_RGB.jpg"
+  description: "Website of the Section of Experimental Radiology (XRaD), Ulm University Medical Center"
+
+  navbar:
+    background: light
+    title: false
+    logo: files/images/XRAD_quer_E_RGB.png
+    logo-alt: "XRaD group logo"
+
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Team
+        href: people.qmd
+      - text: Open Positions
+        href: open_positions.qmd
+      - text: Contact
+        href: contact.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/XRad-Ulm
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[XRaD](https://github.com/XRad-Ulm) &copy; <script>document.write(new Date().getFullYear())</script>"
+    right:
+      - icon: github
+        href: https://github.com/XRad-Ulm
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript

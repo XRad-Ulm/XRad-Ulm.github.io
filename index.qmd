@@ -1,0 +1,33 @@
+---
+title: "Ulm University Medical Center"
+pagetitle: "Experimental Radiology"
+description-meta: "Group Website for the Section of Experimental Radiology from Ulm University Medical Center"
+image: "files/images/XRAD_hoch_E_RGB.jpg"
+page-navigation: false
+toc: false
+sidebar: false
+page-layout: full
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 100%
+  links:
+    - icon: hospital
+      text: Clinic
+      href: https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html
+      target: _blank
+    - icon: book
+      text: University
+      href: https://www.uni-ulm.de/en/
+      target: _blank
+---
+
+:::{#hero-heading}
+
+<span style="font-size: 40px;">Section of Experimental Radiology</span>
+
+The vision of our newly founded "Experimental Radiology" section is the effective utilisation of radiological imaging. The potential of image data has not yet been fully utilised, particularly with regard to precision medicine. We are therefore working on pioneering and innovative methods in the field of machine learning, deep learning and computer vision to address the special challenges in radiology and thus enable better utilisation of data. Our special focus is on pioneering techniques for reliable, robust and efficient learning, especially with little, noisy or unusually annotated data.
+
+![](files/images/group_photo.png){width=100%}
+
+:::

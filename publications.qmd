@@ -1,0 +1,998 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+page-layout: full
+back-to-top-navigation: true
+title-block-banner: false
+page-navigation: false
+toc: false
+sidebar: false
+---
+
+[Notes: † indicates shared senior authorship. \* indicates equal contribution.]{.pub-note}
+
+## 2027 {.pub-year}
+
+::: {.pub-entry}
+[[How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging](https://arxiv.org/pdf/2608.12035)]{.pub-title}
+
+[**Yiheng Xiong**, **Luisa Gallée**, **Daniel Santak Wolf**, **Heiko Hillenhagen**, **Michael Götz**]{.pub-authors}
+
+[IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027 · [Early Accept]{.pub-highlight}]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2608.12035) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
+:::
+
+## 2026 {.pub-year}
+
+::: {.pub-entry}
+[[A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans](https://arxiv.org/pdf/2608.21140)]{.pub-title}
+
+[Simon Vincent Abel, **Heiko Hillenhagen**, **Michael Götz**, Timo Ropinski, Ayhan Can Erdur†, **Daniel Santak Wolf**†]{.pub-authors}
+
+[MICCAI Workshop on Agentic AI for Medicine (AgenticMed), 2026]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2608.21140) [Code](https://github.com/DeveloperNomis/MICCAI-Medical-Agent)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging](https://arxiv.org/pdf/2607.28125)]{.pub-title}
+
+[**Yiheng Xiong**, **Luisa Gallée**, **Daniel Santak Wolf**, **Heiko Hillenhagen**, **Michael Götz**]{.pub-authors}
+
+[MICCAI Workshop on Applications of Medical AI (AMAI), 2026]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2607.28125) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Computed Tomography-Based Assessment of Sarcopenia and Disease Progression in Pancreatic Ductal Adenocarcinoma: A Radiomics and Machine Learning Approach](https://gr.elmerpub.com/index.php/gr/article/view/2132)]{.pub-title}
+
+[Jean-Philippe R. Krieg, **Luisa Gallée**, **Daniel Santak Wolf**, Konstantin Müller, **Michael Götz**, Thomas J. Ettrich, Thomas Seufferlein, Christopher Kloth, Meinrad Beer, Daniel Vogele]{.pub-authors}
+
+[Gastroenterology Research, 2026]{.pub-venue}
+
+[[Paper](https://gr.elmerpub.com/index.php/gr/article/view/2132)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[FunnyNodules: A Customizable Medical Dataset Tailored for Evaluating Explainable AI](https://arxiv.org/pdf/2511.15481)]{.pub-title}
+
+[**Luisa Gallée**, **Yiheng Xiong**, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[Medical Imaging with Deep Learning (MIDL), 2026 · [Oral]{.pub-highlight}]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2511.15481) [Code](https://github.com/XRad-Ulm/FunnyNodules) [Paper](https://raw.githubusercontent.com/mlresearch/v315/main/assets/gallee26a/gallee26a.pdf)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Machine Learning-Based Radiomics for Bladder Cancer Staging: Evaluating the Role of Imaging Timing in Differentiating T2 from T3 Disease](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0046-1817596)]{.pub-title}
+
+[Catharina Silvia Lisson, Christoph Gerhard Lisson, Konstantin Müller, Hannah Stöckl, Friedemann Zengerling, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2026]{.pub-venue}
+
+[[Paper](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0046-1817596)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Contrastive virtual staining enhances deep learning‐based PDAC subtyping from H&E‐stained tissue cores](https://doi.org/10.1002/path.6491)]{.pub-title}
+
+[Maximilian Fischer, Alexander Muckenhuber, Robin Peretzke, Luay Farah, Constantin Ulrich, Sebastian Ziegler, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[The Journal of Pathology, 2026]{.pub-venue}
+
+[[Paper](https://doi.org/10.1002/path.6491)]{.pub-links}
+:::
+
+## 2025 {.pub-year}
+
+::: {.pub-entry}
+[[Non-Hodgkin's lymphoma classification using 3D radiomics machine learning models for precision imaging in oncology](https://doi.org/10.1186/s12880-025-02006-3)]{.pub-title}
+
+[Christoph G. Lisson, **Michael Götz**, **Daniel Santak Wolf**, **Sabitha Manoj**, **Luisa Gallée**, Stefan A. Schmidt, Eugen Tausch, Christof Schneider, Stephan Stilgenbauer, Ambros J. Beer, Meinrad Beer, Nico Sollmann, Catharina S. Lisson]{.pub-authors}
+
+[BMC Medical Imaging, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.1186/s12880-025-02006-3)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images](https://arxiv.org/pdf/2508.00549)]{.pub-title}
+
+[**Daniel Santak Wolf**, **Heiko Hillenhagen**, Billurvan Taskin, Alex Bäuerle, Meinrad Beer, **Michael Götz**†, Timo Ropinski†]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2025]{.pub-venue}
+
+[{{< fa trophy >}} Best Oral Presentation Award, BVM 2026]{.pub-award}
+
+[[arXiv](https://arxiv.org/pdf/2508.00549) [Paper](https://doi.org/10.1007/978-3-032-04971-1_65) [Code](https://wolfda95.github.io/your_other_left/)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Minimum Data, Maximum Impact: 20 annotated samples for explainable lung nodule classification](https://arxiv.org/pdf/2508.00639)]{.pub-title}
+
+[**Luisa Gallée**, Catharina Silvia Lisson, Christoph Gerhard Lisson, Daniela Drees, Felix Weig, Daniel Vogele, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC), 2025]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2508.00639) [Code](https://github.com/XRad-Ulm/Attribute-Conditional-Diffusion-Model)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Machine learning-based radiomics for bladder cancer staging: evaluating the role of imaging timing in differentiating T2 from T3 disease](https://doi.org/10.3389/fonc.2025.1591742)]{.pub-title}
+
+[Christoph G. Lisson, **Luisa Gallée**, Konstantin Müller, **Sabitha Manoj**, Hannah Stöckl, Friedemann Zengerling, Christian Bolenz, Meinrad Beer, **Michael Götz**, Catharina S. Lisson]{.pub-authors}
+
+[Frontiers in Oncology, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.3389/fonc.2025.1591742)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Preventing postoperative pulmonary complications by establishing a machine-learning assisted approach (PEPPERMINT): Study protocol for the creation of a risk prediction model](https://doi.org/10.1371/journal.pone.0329076)]{.pub-title}
+
+[Britta Trautwein, Meinrad Beer, Manfred Blobner, Bettina Jungwirth, Simone Maria Kagerbauer, **Michael Götz**]{.pub-authors}
+
+[PLOS ONE, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.1371/journal.pone.0329076)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification](https://arxiv.org/pdf/2502.08997)]{.pub-title}
+
+[**Luisa Gallée**, Catharina Silvia Lisson, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[arXiv preprint, 2025]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2502.08997) [Code](https://github.com/XRad-Ulm/HierViT)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Overview of leakage scenarios in supervised machine learning](https://doi.org/10.1186/s40537-025-01193-8)]{.pub-title}
+
+[Leonard Sasse, Eliana Nicolaisen-Sobesky, Juergen Dukart, Simon B. Eickhoff, **Michael Götz**, Sami Hamdan, Vera Komeyer, Abhijit Kulkarni, Juha M. Lahnakoski, Bradley C. Love, Federico Raimondo, Kaustubh R. Patil]{.pub-authors}
+
+[Journal of Big Data, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.1186/s40537-025-01193-8)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Automatisierte Erfassung der Sarkopenie bei Patienten mit nicht-kleinzelligem Lungenkarzinom und Prognoseabschätzung mittels CT-Radiomics der Skelettmuskulatur](https://doi.org/10.1055/s-0045-1802808)]{.pub-title}
+
+[Daniel Vogele, M Kemmer, **Michael Götz**, Meinrad Beer]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0045-1802808)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Unlocking the potential of digital pathology: Novel baselines for compression](https://doi.org/10.1016/j.jpi.2025.100421)]{.pub-title}
+
+[Maximilian Fischer, Peter Neher, Peter Schüffler, Sebastian Ziegler, Shuhan Xiao, Robin Peretzke, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Journal of Pathology Informatics, 2025]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/j.jpi.2025.100421)]{.pub-links}
+:::
+
+## 2024 {.pub-year}
+
+::: {.pub-entry}
+[[Deep learning-based classification and segmentation of whole-body 18F-FDG PET/CT examinations using manually generated segmentation masks](https://doi.org/10.1007/s00259-024-06838-z)]{.pub-title}
+
+[Daniel Steube, **Heiko Hillenhagen**, Stephan Stilgenbauer, Ambros J. Beer, Meinrad Beer, **Michael Götz**, et al.]{.pub-authors}
+
+[Annual Congress of the European Association of Nuclear Medicine (EANM), 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/s00259-024-06838-z)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Radiomics workflow definition & challenges – German priority program 2177 consensus statement on clinically applied radiomics](https://doi.org/10.1186/s13244-024-01704-w)]{.pub-title}
+
+[Ralf Floca, Jonas Bohn, Christian Haux, Benedikt Wiestler, Frank G. Zöllner, Annika Reinke, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Insights into Imaging, 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1186/s13244-024-01704-w)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Less is More: Selective reduction of CT data for self-supervised pre-training of deep learning models with contrastive learning improves downstream classification performance](https://arxiv.org/pdf/2410.14524)]{.pub-title}
+
+[**Daniel Santak Wolf**, Tristan Payer, Catharina Silvia Lisson, Christoph Gerhard Lisson, Meinrad Beer, **Michael Götz**†, Timo Ropinski†]{.pub-authors}
+
+[Computers in Biology and Medicine, 2024]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2410.14524) [Paper](https://doi.org/10.1016/j.compbiomed.2024.109242) [Code](https://github.com/Wolfda95/Less_is_More)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Applicability of the CT Radiomics of Skeletal Muscle and Machine Learning for the Detection of Sarcopenia and Prognostic Assessment of Disease Progression in Patients with Gastric and Esophageal Tumors](https://www.mdpi.com/2075-4418/14/2/198)]{.pub-title}
+
+[Daniel Vogele, Teresa Mueller, **Daniel Santak Wolf**, Stephanie Otto, **Sabitha Manoj**, **Michael Götz**, Thomas J Ettrich, Meinrad Beer]{.pub-authors}
+
+[MDPI Diagnostics, 2024]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2075-4418/14/2/198)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Evaluating the Explainability of Attributes and Prototypes for a Medical Classification Model](https://link.springer.com/chapter/10.1007/978-3-031-63787-2_3)]{.pub-title}
+
+[**Luisa Gallée**, Catharina Silvia Lisson, Christoph Gerhard Lisson, Daniela Drees, Felix Weig, Daniel Vogele, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[World Conference on Explainable Artificial Intelligence (xAI), 2024]{.pub-venue}
+
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-63787-2_3)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Editorial for “Multi‐Phase MRI‐Based Radiomics for Predicting Histological Grade of Hepatocellular Carcinoma”](https://doi.org/10.1002/jmri.29323)]{.pub-title}
+
+[Arthur P. Wunderlich, Catharina Lisson, **Michael Götz**]{.pub-authors}
+
+[Journal of Magnetic Resonance Imaging, 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1002/jmri.29323)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Learned image compression for he-stained histopathological images via stain deconvolution](https://doi.org/10.1007/978-3-031-77786-8_10)]{.pub-title}
+
+[Maximilian Fischer, Peter F. Neher, Tassilo Wald, Silvia Dias Almeida, Shuhan Xiao, Peter Schüffler, Rickmer Braren, **Michael Götz**, Alexander Muckenhuber, Jens Kleesiek, Marco Nolden, Klaus H. Maier-Hein]{.pub-authors}
+
+[MICCAI Workshop on Medical Optical Imaging and Virtual Microscopy (MOVI), 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-031-77786-8_10)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Potential von MRT-basierten Radiomics Features zur Differenzierung zwischen pädiatrischen Ewing-Sarkom Patienten mit gutem und schlechtem Ansprechen auf die neoadjuvante Chemotherapie](https://doi.org/10.1055/s-0044-1788763)]{.pub-title}
+
+[J Miedler, **Michael Götz**, Holger Cario, Meinrad Beer, M C Schaal]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0044-1788763)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Segmental quantification of hepatic lipid content based on volumetric MRI data in patients with suspected iron overload](https://doi.org/10.1055/a-2211-3199)]{.pub-title}
+
+[Arthur P. Wunderlich, Holger Cario, Stephan Kannengießer, Veronika Grunau, **Michael Götz**, Felix Hüttner, Johanna Backhus, Meinrad Beer, Stefan Andreas Schmidt]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2024]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/a-2211-3199)]{.pub-links}
+:::
+
+## 2023 {.pub-year}
+
+::: {.pub-entry}
+[[Self-supervised pre-training with contrastive and masked autoencoder methods for dealing with small datasets in deep learning for medical imaging](https://arxiv.org/pdf/2308.06534)]{.pub-title}
+
+[**Daniel Santak Wolf**, Tristan Payer, Catharina Silvia Lisson, Christoph Gerhard Lisson, Meinrad Beer, **Michael Götz**†, Timo Ropinski†]{.pub-authors}
+
+[Nature Scientific Reports, 2023]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2308.06534) [Paper](https://www.nature.com/articles/s41598-023-46433-0) [Code](https://github.com/Wolfda95/SSL-MedicalImagining-CL-MAE)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Interpretable Medical Image Classification Using Prototype Learning and Privileged Information](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41)]{.pub-title}
+
+[**Luisa Gallée**, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023 · [Oral]{.pub-highlight}]{.pub-venue}
+
+[{{< fa trophy >}} Best Oral Presentation Award, Women in MICCAI (WiM) 2023]{.pub-award} [{{< fa trophy >}} Best Oral Presentation Award, BVM 2024]{.pub-award}
+
+[[arXiv](https://arxiv.org/abs/2310.15741) [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41) [Code](https://github.com/XRad-Ulm/Proto-Caps)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Artificial intelligence in radiology–beyond the black box](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2076-6736)]{.pub-title}
+
+[**Luisa Gallée**, Hannah Kniesel, Timo Ropinski, **Michael Götz**]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2023]{.pub-venue}
+
+[[Paper](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2076-6736)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Radiomics and clinicopathological characteristics for predicting lymph node metastasis in testicular cancer](https://www.mdpi.com/2072-6694/15/23/5630)]{.pub-title}
+
+[Catharina Silvia Lisson, **Sabitha Manoj**, **Daniel Santak Wolf**, Christoph Gerhard Lisson, Stefan A Schmidt, Meinrad Beer, Wolfgang Thaiss, Christian Bolenz, Friedemann Zengerling, **Michael Götz**]{.pub-authors}
+
+[MDPI Cancers, 2023]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2072-6694/15/23/5630)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[CT radiomics and clinical feature model to predict lymph node metastases in early-stage testicular cancer](https://www.mdpi.com/2673-7523/3/2/6)]{.pub-title}
+
+[Catharina Silvia Lisson, **Sabitha Manoj**, **Daniel Santak Wolf**, Jasper Schrader, Stefan Andreas Schmidt, Meinrad Beer, **Michael Götz**, Friedemann Zengerling, Christoph Gerhard Sebastian Lisson]{.pub-authors}
+
+[MDPI Onco, 2023]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2673-7523/3/2/6)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Medical volume segmentation by overfitting sparsely annotated data](https://doi.org/10.1117/1.JMI.10.4.044007)]{.pub-title}
+
+[Tristan Payer, Faraz Nizamani, Meinrad Beer, **Michael Götz**, Timo Ropinski]{.pub-authors}
+
+[Journal of Medical Imaging, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1117/1.JMI.10.4.044007)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Artificial intelligence in coronary computed tomography angiography: Demands and solutions from a clinical perspective](https://doi.org/10.3389/fcvm.2023.1120361)]{.pub-title}
+
+[Bettina Baeßler, **Michael Götz**, Charalambos Antoniades, Julius F. Heidenreich, Tim Leiner, Meinrad Beer]{.pub-authors}
+
+[Frontiers in Cardiovascular Medicine, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.3389/fcvm.2023.1120361)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[On leakage in machine learning pipelines](https://arxiv.org/abs/2311.04179)]{.pub-title}
+
+[Leonard Sasse, Eliana Nicolaisen-Sobesky, Juergen Dukart, Simon B Eickhoff, **Michael Götz**, Sami Hamdan, Vera Komeyer, Abhijit Kulkarni, Juha Lahnakoski, Bradley C Love, Federico Raimondo, Kaustubh R Patil]{.pub-authors}
+
+[arXiv preprint, 2023]{.pub-venue}
+
+[[arXiv](https://arxiv.org/abs/2311.04179)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Machine Learning Classifiers for Predictive Biomarkers Combining Clinical and Radiomic Data in Testicular Cancer](https://www.preprints.org/manuscript/202310.1175)]{.pub-title}
+
+[Catharina Silvia Lisson, **Sabitha Manoj**, **Daniel Santak Wolf**, Christoph Gerhard Lisson, Stefan A. Schmidt, Meinrad Beer, Wolfgang Thaiss, Christian Bolenz, Friedemann Zengerling, **Michael Götz**]{.pub-authors}
+
+[Preprints.org, 2023]{.pub-venue}
+
+[[Paper](https://www.preprints.org/manuscript/202310.1175)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[RPTK: The Role of Feature Computation on Prediction Performance](https://doi.org/10.1007/978-3-031-47425-5_11)]{.pub-title}
+
+[Jonas R. Bohn, Christian M. Heidt, Silvia D. Almeida, Lisa Kausch, **Michael Götz**, Marco Nolden, Petros Christopoulos, Stephan Rheinheimer, Alan A. Peters, Oyunbileg von Stackelberg, Hans-Ulrich Kauczor, Klaus H. Maier-Hein, Claus P. Heußel, Tobias Norajitra]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-031-47425-5_11)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Enhanced diagnostic fidelity in pathology whole slide image compression via deep learning](https://doi.org/10.1007/978-3-031-45676-3_43)]{.pub-title}
+
+[Maximilian Fischer, Peter F. Neher, Peter Schüffler, Shuhan Xiao, Silvia Dias Almeida, Constantin Ulrich, Alexander Muckenhuber, Rickmer Braren, **Michael Götz**, Jens Kleesiek, Marco Nolden, Klaus H. Maier-Hein]{.pub-authors}
+
+[MICCAI Workshop on Machine Learning in Medical Imaging (MLMI), 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-031-45676-3_43)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Prediction of bone marrow biopsy results from MRI in multiple myeloma patients using deep learning and radiomics](https://doi.org/10.1097/rli.0000000000000986)]{.pub-title}
+
+[Markus Wennmann, Wenlong Ming, Fabian Bauer, Jiri Chmelik, André Klein, Charlotte Uhlenbrock, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Investigative Radiology, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1097/rli.0000000000000986)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Noninvasive liver iron quantification by MRI using refocused gradient-echo (bSSFP): preliminary results](https://doi.org/10.1055/a-2072-7148)]{.pub-title}
+
+[Arthur P. Wunderlich, Holger Cario, **Michael Götz**, Meinrad Beer, Stefan Andreas Schmidt]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/a-2072-7148)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[In vivo Reproduzierbarkeit von Radiomics-Merkmalen zwischen verschiedenen MRT-Geräten bei Patienten mit monoklonalen Plasmazellerkrankungen – eine prospektive Bi-institutionelle Studie](https://doi.org/10.1055/s-0043-1762945)]{.pub-title}
+
+[Markus Wennmann, Fabian Bauer, Peter F. Neher, Martin Grözinger, Lukas T. Rotkopf, Hartmut Goldschmidt, Tim F. Weber, Stefan Delorme, Klaus H. Maier-Hein, Heinz-Peter Schlemmer, **Michael Götz**]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0043-1762945)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[In vivo repeatability and multiscanner reproducibility of MRI radiomics features in patients with monoclonal plasma cell disorders: a prospective bi-institutional study](https://doi.org/10.1097/rli.0000000000000927)]{.pub-title}
+
+[Markus Wennmann, Fabian Bauer, André Klein, Jiri Chmelik, Martin Grözinger, Lukas T. Rotkopf, et al., **Michael Götz**]{.pub-authors}
+
+[Investigative Radiology, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1097/rli.0000000000000927)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Volumetric Evaluation of 3D Multi-Gradient-Echo MRI Data to Assess Whole Liver Iron Distribution by Segmental R2* Analysis: First Experience](https://doi.org/10.1055/a-1976-910)]{.pub-title}
+
+[Arthur P Wunderlich, Holger Cario, Stephan Kannengießer, Veronika Grunau, Lena Hering, **Michael Götz**, Meinrad Beer, Stefan Andreas Schmidt]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/a-1976-910)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Liver R2* with magnitude fitting in iron-overload patients–initial results on agreement between protocol settings and between 1.5 T and 3T](https://doi.org/10.58530/2023/2055)]{.pub-title}
+
+[Stephan Kannengießer, Arthur Wunderlich, Xiaodong Zhong, Dominik Nickel, Holger Cario, **Michael Götz**, Meinrad Beer, Stefan Schmidt]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.58530/2023/2055)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[MR-based segmental quantification of hepatic lipid content in patients with suspected iron overload](https://doi.org/10.58530/2023/2049)]{.pub-title}
+
+[Arthur Wunderlich, Holger Cario, Stephan Kannengießer, Veronika Grunau, **Michael Götz**, Meinrad Beer, Stefan Schmidt]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.58530/2023/2049)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[MRI-based liver iron quantification using refocused gradient-echo (bSSFP): initial results](https://doi.org/10.58530/2023/1856)]{.pub-title}
+
+[Arthur Wunderlich, Holger Cario, **Michael Götz**, Meinrad Beer, Stefan Schmidt]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2023]{.pub-venue}
+
+[[Paper](https://doi.org/10.58530/2023/1856)]{.pub-links}
+:::
+
+## 2022 {.pub-year}
+
+::: {.pub-entry}
+[[Weakly supervised learning with positive and unlabeled data for automatic brain tumor segmentation](https://www.mdpi.com/2076-3417/12/21/10763)]{.pub-title}
+
+[**Daniel Santak Wolf**, Sebastian Regnery, Rafal Tarnawski, Barbara Bobek-Billewicz, Joanna Polańska, **Michael Götz**]{.pub-authors}
+
+[MDPI Applied Sciences, 2022]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2076-3417/12/21/10763)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Deep Neural Networks and Machine Learning Radiomics Modelling for Prediction of Relapse in Mantle Cell Lymphoma](https://www.mdpi.com/2072-6694/14/8/2008)]{.pub-title}
+
+[Catharina Silvia Lisson, Christoph Gerhard Lisson, Marc Fabian Mezger, **Daniel Santak Wolf**, Stefan Andreas Schmidt, Wolfgang M Thaiss, Eugen Tausch, Ambros J Beer, Stephan Stilgenbauer, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[MDPI Cancers, 2022]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2072-6694/14/8/2008)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Longitudinal CT Imaging to Explore the Predictive Power of 3D Radiomic Tumour Heterogeneity in Precise Imaging of Mantle Cell Lymphoma (MCL)](https://www.mdpi.com/2072-6694/14/2/393)]{.pub-title}
+
+[Catharina Silvia Lisson, Christoph Gerhard Lisson, Sherin Achilles, Marc Fabian Mezger, **Daniel Santak Wolf**, Stefan Andreas Schmidt, Wolfgang M Thaiss, Johannes Bloehdorn, Ambros J Beer, Stephan Stilgenbauer, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[MDPI Cancers, 2022]{.pub-venue}
+
+[[Paper](https://www.mdpi.com/2072-6694/14/2/393)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Combining deep learning and radiomics for automated, objective, comprehensive bone marrow characterization from whole-body MRI: a multicentric feasibility study](https://doi.org/10.1097/rli.0000000000000891)]{.pub-title}
+
+[Markus Wennmann, André Klein, Fabian Bauer, Jiri Chmelik, Martin Grözinger, Charlotte Uhlenbrock, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Investigative Radiology, 2022]{.pub-venue}
+
+[[Paper](https://doi.org/10.1097/rli.0000000000000891)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Deep learning on lossily compressed pathology images: adverse effects for imagenet Pre-trained models](https://doi.org/10.1007/978-3-031-16961-8_8)]{.pub-title}
+
+[Maximilian Fischer, Peter F. Neher, **Michael Götz**, Shuhan Xiao, Silvia Dias Almeida, Peter Schüffler, Alexander Muckenhuber, Rickmer Braren, Jens Kleesiek, Marco Nolden, Klaus H. Maier-Hein]{.pub-authors}
+
+[MICCAI Workshop on Medical Optical Imaging and Virtual Microscopy (MOVI), 2022]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-031-16961-8_8)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[DICOM whole slide imaging for computational pathology research in Kaapana and the joint imaging platform](https://doi.org/10.1007/978-3-658-36932-3_58)]{.pub-title}
+
+[Maximilian Fischer, Philipp Schader, Rickmer Braren, **Michael Götz**, Alexander Muckenhuber, Wilko Weichert, Peter Schüffler, Jens Kleesiek, Jonas Scherer, Klaus Kades, Klaus H. Maier-Hein, Marco Nolden]{.pub-authors}
+
+[BVM Workshop, 2022]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-658-36932-3_58)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[MR-based Liver Iron Quantification using Gradient Echo: Co-Factors influencing the Calibration of R 2* with Reference Liver Iron Content Values](https://doi.org/10.58530/2022/3386)]{.pub-title}
+
+[Arthur Wunderlich, Holger Cario, Stephan Kannengießer, Lena Hering, **Michael Götz**, Meinrad Beer, Stefan Schmidt]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2022]{.pub-venue}
+
+[[Paper](https://doi.org/10.58530/2022/3386)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[3D multi-echo GRE MRI of the whole liver: First experiences of a volumetric segment-by-segment R 2* analysis](https://doi.org/10.58530/2022/3387)]{.pub-title}
+
+[Arthur Wunderlich, Holger Cario, Stephan Kannengießer, Veronika Grunau, **Michael Götz**, Meinrad Beer, Stefan Schmidt]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2022]{.pub-venue}
+
+[[Paper](https://doi.org/10.58530/2022/3387)]{.pub-links}
+:::
+
+## 2021 {.pub-year}
+
+::: {.pub-entry}
+[[P-018: Automatic analysis of magnetic resonance imaging in multiple myeloma patients: deep-learning based pelvic bone marrow segmentation and radiomics analysis for prediction of plasma cell infiltration](https://doi.org/10.1016/s2152-2650(21)02152-2)]{.pub-title}
+
+[Markus Wennmann, André Klein, Fabian Bauer, Jiri Chmelik, Charlotte Uhlenbrock, Martin Grözinger, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Clinical Lymphoma Myeloma and Leukemia, 2021]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/s2152-2650(21)02152-2)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[Radiomics model of pelvic bone marrow in MRI for prediction of plasma cell infiltration in multiple myeloma patients]{.pub-title}
+
+[Charlotte Uhlenbrock, Markus Wennmann, André Klein, Fabian Bauer, Jiri Chmelik, Martin Grözinger, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Oncology Research and Treatment, 2021]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[[Pre-examinations improve automated metastases detection on cranial MRI](https://doi.org/10.1097/rli.0000000000000745)]{.pub-title}
+
+[Katerina Deike-Hofmann, Dorottya Dancs, Daniel Paech, Heinz-Peter Schlemmer, Klaus H. Maier-Hein, Philipp Bäumer, Alexander Radbruch, **Michael Götz**]{.pub-authors}
+
+[Investigative Radiology, 2021]{.pub-venue}
+
+[[Paper](https://doi.org/10.1097/rli.0000000000000745)]{.pub-links}
+:::
+
+## 2020 {.pub-year}
+
+::: {.pub-entry}
+[[The image biomarker standardization initiative: standardized quantitative radiomics for high-throughput image-based phenotyping](https://doi.org/10.1148/radiol.2020191145)]{.pub-title}
+
+[Alex Zwanenburg, Martin Vallières, Mahmoud A. Abdalah, Hugo J. W. L. Aerts, Vincent Andrearczyk, Aditya Apte, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Radiology, 2020]{.pub-venue}
+
+[[Paper](https://doi.org/10.1148/radiol.2020191145)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Optimal statistical incorporation of independent feature stability information into radiomics studies](https://doi.org/10.1038/s41598-020-57739-8)]{.pub-title}
+
+[**Michael Götz**, Klaus H. Maier-Hein]{.pub-authors}
+
+[Nature Scientific Reports, 2020]{.pub-venue}
+
+[[Paper](https://doi.org/10.1038/s41598-020-57739-8)]{.pub-links}
+:::
+
+## 2019 {.pub-year}
+
+::: {.pub-entry}
+[[Response to Letter: "Radiomic Machine Learning: Is It Really a Useful Method for the Characterization of Prostate Cancer?"](https://doi.org/10.1148/radiol.2019182940)]{.pub-title}
+
+[David Bonekamp, Simon Kohl, Manuel Wiesenfarth, Patrick Schelb, Jan Philipp Radtke, **Michael Götz**, et al.]{.pub-authors}
+
+[Radiology, 2019]{.pub-venue}
+
+[[Paper](https://doi.org/10.1148/radiol.2019182940)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[MITK Phenotyping: An open-source toolchain for image-based personalized medicine with radiomics](https://doi.org/10.1016/j.radonc.2018.11.021)]{.pub-title}
+
+[**Michael Götz**, Marco Nolden, Klaus H. Maier-Hein]{.pub-authors}
+
+[Radiotherapy and Oncology, 2019]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/j.radonc.2018.11.021)]{.pub-links}
+:::
+
+## 2018 {.pub-year}
+
+::: {.pub-entry}
+[[Correlation between genomic index lesions and mpMRI and 68Ga-PSMA-PET/CT imaging features in primary prostate cancer](https://doi.org/10.1038/s41598-018-35058-3)]{.pub-title}
+
+[Claudia Kesch, Jan-Philipp Radtke, Axel Wintsche, Manuel Wiesenfarth, Mariska Luttje, Claudia Gasch, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Nature Scientific Reports, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1038/s41598-018-35058-3)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Radiomic machine learning for characterization of prostate lesions with MRI: comparison to ADC values](https://doi.org/10.1148/radiol.2018173064)]{.pub-title}
+
+[David Bonekamp, Simon Kohl, Manuel Wiesenfarth, Patrick Schelb, Jan Philipp Radtke, **Michael Götz**, et al.]{.pub-authors}
+
+[Radiology, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1148/radiol.2018173064)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Early postoperative delineation of residual tumor after low-grade glioma resection by probabilistic quantification of diffusion-weighted imaging](https://doi.org/10.3171/2018.2.jns172951)]{.pub-title}
+
+[Moritz Scherer, Christine Jungk, **Michael Götz**, Philipp Kickingereder, David Reuss, Martin Bendszus, Klaus H. Maier-Hein, Andreas Unterberg]{.pub-authors}
+
+[Journal of Neurosurgery, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.3171/2018.2.jns172951)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Radiomic subtyping improves disease stratification beyond key molecular, clinical, and standard imaging characteristics in patients with glioblastoma](https://doi.org/10.1093/neuonc/nox188)]{.pub-title}
+
+[Philipp Kickingereder, Ulf Neuberger, David Bonekamp, Paula L Piechotta, **Michael Götz**, Antje Wick, et al.]{.pub-authors}
+
+[Neuro-Oncology, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1093/neuonc/nox188)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[Results from the image biomarker standardisation initiative]{.pub-title}
+
+[Alex Zwanenburg, Mahmoud A. Abdalah, Aditya Apte, Saeed Ashrafinia, Jorn Beukinga, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Radiotherapy and Oncology, 2018]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[[Bi-institutioneller Vergleich manueller mit automatisch durch ein Adversarial Neural Network erstellten Prostatasegmentationen](https://doi.org/10.1055/s-0038-1641463)]{.pub-title}
+
+[David Bonekamp, David Bonekamp, Tobias Penzkofer, Simon Kohl, Alexander Baur, Jan Philipp Radtke, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0038-1641463)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Correlation between genomic index lesions, multi-parametric MRI and 68Ga-PSMA-PET/CT imaging features in primary prostate cancer](https://doi.org/10.1016/j.juro.2018.02.2164)]{.pub-title}
+
+[Claudia Kesch, Jan P. Radtke, Axel Wintsche, Manuel Wiesenfarth, Mariska Luttje, Claudia Gasch, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Journal of Urology, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/j.juro.2018.02.2164)]{.pub-links}
+:::
+
+## 2017 {.pub-year}
+
+::: {.pub-entry}
+[[Prediction of malignancy by a radiomic signature from contrast agent‐free diffusion MRI in suspicious breast lesions found on screening mammography](https://doi.org/10.1002/jmri.25606)]{.pub-title}
+
+[Sebastian Bickelhaupt, Daniel Paech, Philipp Kickingereder, Franziska Steudle, Wolfgang Lederer, Heidi Daniel, **Michael Götz**, Nils Gählert, Diana Tichy, Manuel Wiesenfarth, Frederik B. Laun, Klaus H. Maier‐Hein, Heinz‐Peter Schlemmer, David Bonekamp]{.pub-authors}
+
+[Journal of Magnetic Resonance Imaging, 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1002/jmri.25606)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[MiMSeg-an algorithm for automated detection of tumor tissue on NMR apparent diffusion coefficient maps](https://doi.org/10.1016/j.ins.2016.07.052)]{.pub-title}
+
+[Franciszek Binczyk, Bram Stjelties, Christian Weber, **Michael Götz**, Klaus Meier-Hein, Hans-Peter Meinzer, Barbara Bobek-Billewicz, Rafal Tarnawski, Joanna Polanska]{.pub-authors}
+
+[Information Sciences, 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/j.ins.2016.07.052)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Vergleich von Radiomics, quantitativen ADC Messungen und PI-RADS zur Detektion des signifikanten Prostatakarzinoms](https://doi.org/10.1055/s-0037-1600459)]{.pub-title}
+
+[David Bonekamp, David Bonekamp, Boris Hadaschik, Manuel Wiesenfarth, Kathrin Wieczorek, **Michael Götz**, Heinz-Peter Schlemmer, Klaus H. Maier-Hein]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0037-1600459)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Training mit positiven und unannotierten Daten für automatische Voxelklassifikation](https://doi.org/10.1007/978-3-662-54345-0_54)]{.pub-title}
+
+[**Michael Götz**, Klaus H. Maier-Hein]{.pub-authors}
+
+[BVM Workshop, 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-662-54345-0_54)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[ISLES 2015-A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral MRI](https://doi.org/10.1016/j.media.2016.07.009)]{.pub-title}
+
+[Oskar Maier, Bjoern H. Menze, Janina von der Gablentz, Levin Häni, Mattias P. Heinrich, Matthias Liebrand, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Medical Image Analysis, 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/j.media.2016.07.009)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Physiological Parameter Estimation from Multispectral Images Unleashed](https://doi.org/10.1007/978-3-319-66179-7_16)]{.pub-title}
+
+[Sebastian J. Wirkert, Anant S. Vemuri, Hannes G. Kenngott, Sara Moccia, **Michael Götz**, Benjamin F. B. Mayer, Klaus H. Maier-Hein, Daniel S. Elson, Lena Maier-Hein]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2017]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-319-66179-7_16)]{.pub-links}
+:::
+
+## 2016 {.pub-year}
+
+::: {.pub-entry}
+[[Large-scale radiomic profiling of recurrent glioblastoma identifies an imaging predictor for stratifying anti-angiogenic treatment response](https://doi.org/10.1158/1078-0432.ccr-16-0702)]{.pub-title}
+
+[Philipp Kickingereder, **Michael Götz**, John Muschelli, Antje Wick, Ulf Neuberger, Russell T. Shinohara, Martin Sill, Martha Nowosielski, Heinz-Peter Schlemmer, Alexander Radbruch, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein, David Bonekamp]{.pub-authors}
+
+[Clinical Cancer Research, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1158/1078-0432.ccr-16-0702)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Development and validation of an automatic segmentation algorithm for quantification of intracerebral hemorrhage](https://doi.org/10.1161/strokeaha.116.013779)]{.pub-title}
+
+[Moritz Scherer, Jonas Cordes, Alexander Younsi, Yasemin-Aylin Sahin, **Michael Götz**, Markus Möhlenbruch, Christian Stock, Julian Bösel, Andreas Unterberg, Klaus H. Maier-Hein, Berk Orakcioglu]{.pub-authors}
+
+[Stroke, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1161/strokeaha.116.013779)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Crowd-algorithm collaboration for large-scale endoscopic image annotation with confidence](https://doi.org/10.1007/978-3-319-46723-8_71)]{.pub-title}
+
+[Lena Maier-Hein, Tobias Ross, Janek Gröhl, Ben Glocker, Sebastian Bodenstedt, Christian Stock, Eric Heim, **Michael Götz**, Sebastian Wirkert, Hannes Kenngott, Stefanie Speidel, Klaus H. Maier-Hein]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-319-46723-8_71)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Large-scale radiomic profiling of recurrent glioblastoma identifies an imaging predictor for stratifying anti-angiogenic treatment response (Abstract OS4.6)](https://doi.org/10.1093/neuonc/now188.032)]{.pub-title}
+
+[Philipp Kickingereder, **Michael Götz**, Antje Wick, Ulf Neuberger, Heinz-Peter Schlemmer, Alexander Radbruch, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein, David Bonekamp]{.pub-authors}
+
+[Neuro-Oncology, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1093/neuonc/now188.032)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Radiomic profiling of glioblastoma: identifying an imaging predictor of patient survival with improved performance over established clinical and radiologic risk models](https://doi.org/10.1148/radiol.2016160845)]{.pub-title}
+
+[Philipp Kickingereder, Sina Burth, Antje Wick, **Michael Götz**, Oliver Eidel, Heinz-Peter Schlemmer, Klaus H. Maier-Hein, Wolfgang Wick, Martin Bendszus, Alexander Radbruch, David Bonekamp]{.pub-authors}
+
+[Radiology, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1148/radiol.2016160845)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Toward cognitive pipelines of medical assistance algorithms](https://doi.org/10.1007/s11548-015-1322-y)]{.pub-title}
+
+[Patrick Philipp, Maria Maleshkova, Darko Katic, Christian Weber, **Michael Götz**, Achim Rettinger, Stefanie Speidel, Benedikt Kämpgen, Marco Nolden, Anna-Laura Wekerle, Rüdiger Dillmann, Hannes Kenngott, Beat Müller, Rudi Studer]{.pub-authors}
+
+[International Journal of Computer Assisted Radiology and Surgery, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/s11548-015-1322-y)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Prostata-MRT vor radikaler Prostatektomie: Radiomics-Parameter zur Differenzierung von primärem Gleason Pattern 3 von hochgradigem Prostatakarzinom](https://doi.org/10.1055/s-0036-1581862)]{.pub-title}
+
+[David Bonekamp, Philipp Kickingereder, Boris Hadaschik, Jan Philipp Radtke, **Michael Götz**, Klaus H. Maier-Hein, Matthias Röthke, Markus Hohenfellner, Heinz-Peter Schlemmer]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0036-1581862)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Large-scale radiomic profiling of glioblastoma identifies an imaging signature for predicting and stratifying antiangiogenic treatment response](https://doi.org/10.1055/s-0036-1581194)]{.pub-title}
+
+[Philipp Kickingereder, Philipp Kickingereder, **Michael Götz**, John Muschelli, Antje Wick, Ulf Neuberger, Russell T. Shinohara, Alexander Radbruch, Heinz-Peter Schlemmer, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein, David Bonekamp]{.pub-authors}
+
+[RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1055/s-0036-1581194)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Machine-learning based comparison of CT-perfusion maps and dual energy CT for pancreatic tumor detection](https://doi.org/10.1117/12.2216645)]{.pub-title}
+
+[**Michael Götz**, Stephan Skornitzke, Christian Weber, Franziska Fritz, Philipp Mayer, Marco Koell, Wolfram Stiller, Klaus H. Maier-Hein]{.pub-authors}
+
+[SPIE Medical Imaging Conference (SPIE MI), 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1117/12.2216645)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[A learning-based, fully automatic liver tumor segmentation pipeline based on sparsely annotated training data](https://doi.org/10.1117/12.2217655)]{.pub-title}
+
+[**Michael Götz**, Eric Heim, Keno Maerz, Tobias Norajitra, Mohammadreza Hafezi, Nassim Fard, Arianeb Mehrabi, Max Knoll, Christian Weber, Lena Maier-Hein, Klaus H. Maier-Hein]{.pub-authors}
+
+[SPIE Medical Imaging Conference (SPIE MI), 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1117/12.2217655)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Fallspezifisches Lernen zur automatischen Läsionssegmentierung in multimodalen MR-Bildern](https://doi.org/10.1007/978-3-662-49465-3_13)]{.pub-title}
+
+[**Michael Götz**, Christoph Kolb, Christian Weber, Sebastian Regnery, Klaus H. Maier-Hein]{.pub-authors}
+
+[BVM Workshop, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-662-49465-3_13)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Electromagnetic organ tracking allows for real-time compensation of tissue shift in image-guided laparoscopic rectal surgery: results of a phantom study](https://doi.org/10.1007/s00464-015-4231-9)]{.pub-title}
+
+[Martin Wagner, Matthias Gondan, Clemens Zöllner, Josephine J. Wünscher, Felix Nickel, Leila Albala, et al., **Michael Götz**, et al.]{.pub-authors}
+
+[Surgical Endoscopy, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/s00464-015-4231-9)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[Similarity based fusion of multiple Regions of Interests for MR sequence evaluation]{.pub-title}
+
+[**Michael Götz**, Christian Weber, Klaus H. Maier-Hein]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2016]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[[DALSA: Domain Adaptation for Supervised Learning from Sparsely Annotated MR Images](https://doi.org/10.1109/tmi.2015.2463078)]{.pub-title}
+
+[**Michael Götz**, Christian Weber, Franciszek Binczyk, Joanna Polanska, Rafal Tarnawski, Barbara Bobek-Billewicz, Ullrich Koethe, Jens Kleesiek, Bram Stieltjes, Klaus H. Maier-Hein]{.pub-authors}
+
+[IEEE Transactions on Medical Imaging, 2016]{.pub-venue}
+
+[[Paper](https://doi.org/10.1109/tmi.2015.2463078)]{.pub-links}
+:::
+
+## 2015 {.pub-year}
+
+::: {.pub-entry}
+[[Input data adaptive learning (IDAL) for sub-acute ischemic stroke lesion segmentation](https://doi.org/10.1007/978-3-319-30858-6_25)]{.pub-title}
+
+[**Michael Götz**, Christian Weber, Christoph Kolb, Klaus H. Maier-Hein]{.pub-authors}
+
+[MICCAI Brainlesion Workshop (BrainLes), 2015]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-319-30858-6_25)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[A machine learning based approach to fiber tractography using classifier voting](https://doi.org/10.1007/978-3-319-24553-9_6)]{.pub-title}
+
+[Peter F. Neher, **Michael Götz**, Tobias Norajitra, Christian Weber, Klaus H. Maier-Hein]{.pub-authors}
+
+[International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2015]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-319-24553-9_6)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Automatisierung von Vorverarbeitungsschritten für medizinische Bilddaten mit semantischen Technologien](https://doi.org/10.1007/978-3-662-46224-9_46)]{.pub-title}
+
+[Patrick Philipp, Maria Maleshkova, **Michael Götz**, Christian Weber, Benedikt Kämpgen, Sascha Zelzer, Klaus H. Maier-Hein, Miriam Klauß, Achim Rettinger]{.pub-authors}
+
+[BVM Workshop, 2015]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-662-46224-9_46)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Überwachtes Lernen zur Prädiktion von Tumorwachstum](https://doi.org/10.1007/978-3-662-46224-9_81)]{.pub-title}
+
+[Christian Weber, **Michael Götz**, Franciszek Binczyck, Joanna Polanska, Rafal Tarnawski, Barbara Bobek-Billewicz, Hans-Peter Meinzer, Bram Stieltjes, Klaus H. Maier-Hein]{.pub-authors}
+
+[BVM Workshop, 2015]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-662-46224-9_81)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[[Automatische Tumorsegmentierung mit spärlich annotierter Lernbasis](https://doi.org/10.1007/978-3-662-46224-9_83)]{.pub-title}
+
+[**Michael Götz**, Christian Weber, Franciszek Binczyck, Joanna Polanska, Rafal Tarnawski, Barbara Bobek-Billewicz, Hans-Peter Meinzer, Bram Stieltjes, Klaus H. Maier-Hein]{.pub-authors}
+
+[BVM Workshop, 2015]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-662-46224-9_83)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[A machine learning based approach to fiber tractography]{.pub-title}
+
+[Peter F. Neher, **Michael Götz**, Tobias Norajitra, Christian Weber, Klaus H. Maier-Hein]{.pub-authors}
+
+[Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2015]{.pub-venue}
+:::
+
+## 2014 {.pub-year}
+
+::: {.pub-entry}
+[Using Linked Data and Web APIs for Automating the Pre-processing of Medical Images]{.pub-title}
+
+[Philipp Gemmeke, Maria Maleshkova, Patrick Philipp, **Michael Götz**, Christian Weber, Benedikt Kämpgen, et al.]{.pub-authors}
+
+[International Workshop on Consuming Linked Data (COLD), 2014]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[Analysis of mitral valve motion in 4D transesophageal echocardiography for transcatheter aortic valve implantation]{.pub-title}
+
+[Frank M. Weber, Thomas Stehle, Irina Waechter-Stehle, **Michael Götz**, Jochen Peters, Sabine Mollus, et al.]{.pub-authors}
+
+[MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM), 2014]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[[Brain Tumor Progression Modeling-A Data Driven Approach](https://doi.org/10.54294/eh1r6m)]{.pub-title}
+
+[Christian Weber, **Michael Götz**, Bram Stieltjes, Joanna Polanska, Franciszek Binczyk, Rafal Tarnawski, Barbara Bobek-Billewicz, Klaus H. Maier-Hein]{.pub-authors}
+
+[The MIDAS Journal, 2014]{.pub-venue}
+
+[[Paper](https://doi.org/10.54294/eh1r6m)]{.pub-links}
+:::
+
+::: {.pub-entry}
+[Learning from Small Amounts of Labeled Data in a Brain Tumor Classification Task]{.pub-title}
+
+[**Michael Götz**, Christian Weber, Bram Stieltjes, Klaus H. Maier-Hein]{.pub-authors}
+
+[NeurIPS Workshop on Transfer and Multi-Task Learning, 2014]{.pub-venue}
+:::
+
+::: {.pub-entry}
+[Extremely randomized trees based brain tumor segmentation]{.pub-title}
+
+[**Michael Götz**, Christian Weber, J Bloecher, Bram Stieltjes, Hans-Peter Meinzer, Klaus H. Maier-Hein]{.pub-authors}
+
+[MICCAI Brain Tumor Segmentation Challenge (BraTS), 2014]{.pub-venue}
+:::

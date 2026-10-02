@@ -1,0 +1,108 @@
+---
+title: "Our Scientists"
+# subtitle: "Who we are"
+# image: files/images/XRAD_hoch_E_RGB.jpg
+page-layout: full
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+    email-obfuscation: none
+---
+
+::: {.grid .team-grid}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/michael_goetz.jpeg)
+
+[Prof. Dr. Michael Götz]{.team-name}
+
+[Group Leader]{.team-role}
+
+[{{< fa envelope >}}](mailto:michael.goetz@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/michael-goetz-820a4089/){title="LinkedIn" target="_blank"} [{{< ai google-scholar >}}](https://scholar.google.de/citations?user=GSyIRg4AAAAJ&hl=en){title="Google Scholar" target="_blank"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/daniel_wolf.jpg)
+
+[Daniel Santak Wolf]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:daniel.wolf@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/wolf-daniel/){title="LinkedIn" target="_blank"} [{{< fa brands github >}}](https://github.com/Wolfda95){title="Github" target="_blank"} [{{< fa globe >}}](https://viscom.uni-ulm.de/members/daniel-wolf/){title="Homepage" target="_blank"} [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=vqKsXwgAAAAJ&hl=de&oi=ao){title="Google Scholar" target="_blank"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/luisa_gallee.png)
+
+[Luisa Gallée]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:luisa.gallee@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/luisa-gall%C3%A9e-101935152){title="LinkedIn" target="_blank"} [{{< fa brands github >}}](https://github.com/XRad-Ulm){title="Github" target="_blank"} [{{< ai google-scholar >}}](https://scholar.google.de/citations?hl=de&user=RotwTNsAAAAJ){title="Google Scholar" target="_blank"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/heiko_hillenhagen.jpg)
+
+[Heiko Hillenhagen]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:heiko.hillenhagen@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/heiko-hillenhagen/){title="LinkedIn" target="_blank"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/yiheng_xiong.jpg)
+
+[Yiheng Xiong]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:yiheng.xiong@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yiheng-xiong-865547137/){title="LinkedIn" target="_blank"} [{{< fa globe >}}](https://xiongyiheng.github.io/){title="Homepage" target="_blank"} [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=yO4juCIAAAAJ&hl=en){title="Google Scholar" target="_blank"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/fabian_gross.jpg)
+
+[Fabian Groß]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:fabian.gross@uni-ulm.de){title="E-mail"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/andreas_wagner.jpg)
+
+[Andreas Wagner]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:andreas.wagner@uni-ulm.de){title="E-mail"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/jessica_thiessen.jpeg)
+
+[Jessica Thiessen]{.team-name}
+
+[PhD Student]{.team-role}
+
+[{{< fa envelope >}}](mailto:jessica.thiessen@uni-ulm.de){title="E-mail"}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .team-card}
+![](files/profiles/sabitha_manoj.JPG)
+
+[Sabitha Manoj]{.team-name}
+
+[Research Assistant]{.team-role}
+
+[{{< fa envelope >}}](mailto:sabitha.manoj@uni-ulm.de){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sabitha-manoj-88974a5/){title="LinkedIn" target="_blank"} [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=45rLXrQAAAAJ&hl=en){title="Google Scholar" target="_blank"}
+:::
+
+:::
