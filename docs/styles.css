@@ -29,6 +29,8 @@
 
 /* Homepage hero: justify the intro paragraph so lines align evenly */
 #hero-heading > p {
+  font-size: 1.25rem;
+  line-height: 1.4;
   text-align: justify;
   text-justify: inter-word;
 }
@@ -153,7 +155,8 @@
 /* Research page cards */
 .research-intro {
   display: block;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+  line-height: 1.4;
   color: #495057;
   margin-bottom: 2rem;
   max-width: 60rem;
@@ -224,12 +227,14 @@
 }
 
 .research-card h3 {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
 .research-desc {
   display: block;
+  font-size: 1.2rem;
+  line-height: 1.4;
   color: #495057;
   margin-bottom: 0.75rem;
 }
@@ -238,16 +243,16 @@
   display: inline-block;
   background-color: #eef2f7;
   color: #495057;
-  font-size: 0.78rem;
+  font-size: 0.9rem;
   font-weight: 600;
-  padding: 0.25rem 0.6rem;
+  padding: 0.3rem 0.7rem;
   border-radius: 999px;
   margin: 0 0.3rem 0.3rem 0;
 }
 
 .research-responsible {
   display: block;
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   color: #6c757d;
   margin-top: 0.5rem;
 }
@@ -375,9 +380,16 @@ section.level2 + section.level2 > h2.pub-year {
   color: #212529;
 }
 
+/* Open Positions page */
+.open-positions-page main > p {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
 /* Contact page */
 .contact-address {
-  line-height: 1.6;
+  font-size: 1.25rem;
+  line-height: 1.4;
   margin-bottom: 1.5rem;
 }
 
@@ -405,6 +417,21 @@ section.level2 + section.level2 > h2.pub-year {
 
   .research-card {
     padding: 1rem;
+  }
+
+  #hero-heading > p,
+  .research-desc,
+  .open-positions-page main > p,
+  .contact-address {
+    font-size: 1.1rem;
+  }
+
+  .research-intro {
+    font-size: 1.15rem;
+  }
+
+  .research-card h3 {
+    font-size: 1.3rem;
   }
 
   .team-card {
