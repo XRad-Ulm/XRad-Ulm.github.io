@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - .nojekyll
 
 description-meta: "Website of the Section of Experimental Radiology (XRaD), Ulm University Medical Center"
 author-meta: "XRaD"
