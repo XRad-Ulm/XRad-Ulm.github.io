@@ -33,6 +33,22 @@
   text-justify: inter-word;
 }
 
+/* Homepage hero title: never justified, scales down on phones */
+#hero-heading .hero-title {
+  display: block;
+  text-align: left;
+  font-size: clamp(1.9rem, 6vw, 40px);
+  line-height: 1.2;
+  margin-bottom: 0.25rem;
+}
+
+/* Phones: justified text leaves big gaps on narrow lines */
+@media (max-width: 575.98px) {
+  #hero-heading > p {
+    text-align: left;
+  }
+}
+
 /* Homepage hero: bigger Clinic / University links */
 .quarto-about-trestles .about-link {
   font-size: 1.05rem;
