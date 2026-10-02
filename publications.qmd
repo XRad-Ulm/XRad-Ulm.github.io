@@ -560,11 +560,13 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[Radiomics model of pelvic bone marrow in MRI for prediction of plasma cell infiltration in multiple myeloma patients]{.pub-title}
+[[Radiomics model of pelvic bone marrow in MRI for prediction of plasma cell infiltration in multiple myeloma patients](https://doi.org/10.1159/000518417)]{.pub-title}
 
 [Charlotte Uhlenbrock, Markus Wennmann, André Klein, Fabian Bauer, Jiri Chmelik, Martin Grözinger, et al., **Michael Götz**, et al.]{.pub-authors}
 
 [Oncology Research and Treatment, 2021]{.pub-venue}
+
+[[Paper](https://doi.org/10.1159/000518417)]{.pub-links}
 :::
 
 ::: {.pub-entry}
@@ -664,11 +666,13 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[Results from the image biomarker standardisation initiative]{.pub-title}
+[[Results from the image biomarker standardisation initiative](https://doi.org/10.1016/S0167-8140(18)31291-X)]{.pub-title}
 
 [Alex Zwanenburg, Mahmoud A. Abdalah, Aditya Apte, Saeed Ashrafinia, Jorn Beukinga, et al., **Michael Götz**, et al.]{.pub-authors}
 
 [Radiotherapy and Oncology, 2018]{.pub-venue}
+
+[[Paper](https://doi.org/10.1016/S0167-8140(18)31291-X)]{.pub-links}
 :::
 
 ::: {.pub-entry}
@@ -956,19 +960,23 @@ sidebar: false
 ## 2014 {.pub-year}
 
 ::: {.pub-entry}
-[Using Linked Data and Web APIs for Automating the Pre-processing of Medical Images]{.pub-title}
+[[Using Linked Data and Web APIs for Automating the Pre-processing of Medical Images](https://ceur-ws.org/Vol-1264/cold2014_GemmekeMPGWKNMR.pdf)]{.pub-title}
 
 [Philipp Gemmeke, Maria Maleshkova, Patrick Philipp, **Michael Götz**, Christian Weber, Benedikt Kämpgen, et al.]{.pub-authors}
 
 [International Workshop on Consuming Linked Data (COLD), 2014]{.pub-venue}
+
+[[Paper](https://ceur-ws.org/Vol-1264/cold2014_GemmekeMPGWKNMR.pdf)]{.pub-links}
 :::
 
 ::: {.pub-entry}
-[Analysis of mitral valve motion in 4D transesophageal echocardiography for transcatheter aortic valve implantation]{.pub-title}
+[[Analysis of mitral valve motion in 4D transesophageal echocardiography for transcatheter aortic valve implantation](https://doi.org/10.1007/978-3-319-14678-2_17)]{.pub-title}
 
 [Frank M. Weber, Thomas Stehle, Irina Waechter-Stehle, **Michael Götz**, Jochen Peters, Sabine Mollus, et al.]{.pub-authors}
 
 [MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM), 2014]{.pub-venue}
+
+[[Paper](https://doi.org/10.1007/978-3-319-14678-2_17)]{.pub-links}
 :::
 
 ::: {.pub-entry}
@@ -982,17 +990,21 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[Learning from Small Amounts of Labeled Data in a Brain Tumor Classification Task]{.pub-title}
+[[Learning from Small Amounts of Labeled Data in a Brain Tumor Classification Task](https://doi.org/10.5281/zenodo.3666266)]{.pub-title}
 
 [**Michael Götz**, Christian Weber, Bram Stieltjes, Klaus H. Maier-Hein]{.pub-authors}
 
 [NeurIPS Workshop on Transfer and Multi-Task Learning, 2014]{.pub-venue}
+
+[[Paper](https://doi.org/10.5281/zenodo.3666266)]{.pub-links}
 :::
 
 ::: {.pub-entry}
-[Extremely randomized trees based brain tumor segmentation]{.pub-title}
+[[Extremely randomized trees based brain tumor segmentation](https://doi.org/10.5281/zenodo.3666272)]{.pub-title}
 
 [**Michael Götz**, Christian Weber, J Bloecher, Bram Stieltjes, Hans-Peter Meinzer, Klaus H. Maier-Hein]{.pub-authors}
 
 [MICCAI Brain Tumor Segmentation Challenge (BraTS), 2014]{.pub-venue}
+
+[[Paper](https://doi.org/10.5281/zenodo.3666272)]{.pub-links}
 :::
