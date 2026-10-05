@@ -721,13 +721,14 @@ img {
   counter-reset: project;
 }
 
+/* Figure and text side by side, alternating sides (stacked below 992px) */
 .research-card {
   counter-increment: project;
   display: grid;
-  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   column-gap: clamp(1.5rem, 1rem + 3vw, 4rem);
-  align-items: start;
-  padding: var(--space-8) 0;
+  align-items: center;
+  padding: var(--space-7) 0;
   border-top: 1px solid var(--line);
 }
 
@@ -736,20 +737,32 @@ img {
   padding-top: 0;
 }
 
+.research-card > p:first-child {
+  grid-column: 1;
+  grid-row: 1;
+}
+
 .research-card > section {
-  display: contents;   /* Quarto wraps each project's heading and text in a section */
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.research-card:nth-child(even) > p:first-child {
+  grid-column: 2;
+}
+
+.research-card:nth-child(even) > section {
+  grid-column: 1;
 }
 
 .research-card > section > * {
-  grid-column: 2;
   margin: 0;
 }
 
 /* Figure panel */
 .research-card > p:first-child {
-  grid-column: 1 / -1;
-  margin-bottom: var(--space-6);
-  padding: clamp(1rem, 0.5rem + 2vw, 2.25rem);
+  margin: 0;
+  padding: clamp(0.75rem, 0.5rem + 1vw, 1.5rem);
   background: #fff;
   border: 1px solid var(--line);
   border-radius: var(--radius-lg);
@@ -771,13 +784,17 @@ img {
   cursor: zoom-in;
 }
 
-/* Title column: number + heading */
+.research-card img.img-contain {
+  width: auto;
+  max-width: 100%;
+  max-height: 360px;
+}
+
+/* Number + heading */
 .research-card h3 {
-  grid-column: 1;
-  grid-row: 2 / span 4;
   font-size: var(--fs-h3);
   line-height: 1.2;
-  margin: 0;
+  margin-bottom: var(--space-4);
 }
 
 .research-card h3::before {
@@ -796,7 +813,6 @@ img {
   font-size: 1.0625rem;
   line-height: 1.7;
   color: var(--ink-2);
-  margin-bottom: var(--space-4);
   max-width: var(--measure);
 }
 
@@ -805,7 +821,7 @@ img {
 }
 
 .research-card p:has(.badge) {
-  margin-bottom: var(--space-3);
+  margin-bottom: var(--space-2);
 }
 
 .research-responsible {
@@ -815,7 +831,6 @@ img {
   gap: 0.35em;
   font-size: var(--fs-small);
   color: var(--muted);
-  padding-top: var(--space-3);
 }
 
 .research-responsible a {
@@ -833,46 +848,22 @@ img {
   color: var(--brand);
 }
 
-/* The near-square diagram sits beside its text instead of above it */
-@media (min-width: 992px) {
-  .research-card:has(img.img-contain) > p:first-child {
-    grid-column: 1;
-    grid-row: 1 / span 5;
-    margin-bottom: 0;
-  }
-
-  .research-card:has(img.img-contain) h3 {
-    grid-column: 2;
-    grid-row: auto;
-    margin-bottom: var(--space-4);
-  }
-
-  .research-card:has(img.img-contain) {
-    align-items: center;
-  }
-
-  .research-card img.img-contain {
-    max-height: 440px;
-    width: auto;
-    max-width: 100%;
-  }
-}
-
 @media (max-width: 991.98px) {
   .research-card {
     grid-template-columns: minmax(0, 1fr);
     padding: var(--space-7) 0;
   }
 
-  .research-card > section > *,
-  .research-card h3,
-  .research-card > p:first-child {
+  .research-card > p:first-child,
+  .research-card > section,
+  .research-card:nth-child(even) > p:first-child,
+  .research-card:nth-child(even) > section {
     grid-column: 1;
     grid-row: auto;
   }
 
-  .research-card h3 {
-    margin-bottom: var(--space-4);
+  .research-card > p:first-child {
+    margin-bottom: var(--space-5);
   }
 
   .research-card img.img-contain {
