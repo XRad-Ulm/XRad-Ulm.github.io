@@ -53,8 +53,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
     css: styles.css
+    include-in-header: _includes/head.html
+    include-after-body: _includes/after-body.html
     toc: true
     fig-align: center
     link-external-icon: false

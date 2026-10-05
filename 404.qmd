@@ -1,5 +1,6 @@
 ---
 title: Page Unplugged
+body-classes: not-found-page
 ---
 
 The page you requested cannot be found (perhaps it was unplugged).

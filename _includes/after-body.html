@@ -1,0 +1,29 @@
+<script>
+// Fade content in as it scrolls into view. Skipped when the reader prefers reduced motion.
+(function () {
+  var items = document.querySelectorAll(".research-card, .team-card, .home-links a, .contact-grid > *, .position-panel");
+  if (!("IntersectionObserver" in window) || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add("is-visible"); io.unobserve(e.target); }
+    });
+  }, { rootMargin: "0px 0px -8% 0px" });
+  items.forEach(function (el, i) {
+    el.classList.add("reveal");
+    el.style.setProperty("--reveal-delay", (i % 4) * 60 + "ms");
+    io.observe(el);
+  });
+})();
+
+// Publications: build the year index from the year headings.
+(function () {
+  var nav = document.querySelector(".pub-years");
+  if (!nav) return;
+  document.querySelectorAll("h2.pub-year").forEach(function (h) {
+    var a = document.createElement("a");
+    a.href = "#" + (h.id || h.closest("section").id);
+    a.textContent = h.textContent.trim();
+    nav.appendChild(a);
+  });
+})();
+</script>

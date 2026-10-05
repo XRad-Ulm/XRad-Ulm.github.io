@@ -15,9 +15,9 @@ format:
 
 [We develop deep learning methods for medical image analysis that are interpretable, data-efficient, and robust, from vision-language and multimodal models to clinical risk prediction, bridging machine learning research with clinical practice.]{.research-intro}
 
-::: {.grid .research-grid}
+::: {.research-grid}
 
-::: {.g-col-12 .research-card}
+::: {.research-card}
 ![](<files/images/Interpretable Medical Image Classification.png>){.img-contain}
 
 ### Interpretable Medical Image Classification
@@ -29,7 +29,7 @@ format:
 [Responsible: [Luisa Gallée](mailto:luisa.gallee@uni-ulm.de)]{.research-responsible}
 :::
 
-::: {.g-col-12 .research-card}
+::: {.research-card}
 ![](files/images/SSL.png){.img-wide}
 
 ### Self-Supervised Pretraining for Medical Image Analysis
@@ -41,7 +41,7 @@ format:
 [Responsible: [Daniel Santak Wolf](mailto:daniel.wolf@uni-ulm.de)]{.research-responsible}
 :::
 
-::: {.g-col-12 .research-card}
+::: {.research-card}
 ![](files/images/VLM.png){.img-wide}
 
 ### Vision-Language Models for Medical Image Analysis
@@ -53,7 +53,7 @@ format:
 [Responsible: [Daniel Santak Wolf](mailto:daniel.wolf@uni-ulm.de)]{.research-responsible}
 :::
 
-::: {.g-col-12 .research-card}
+::: {.research-card}
 ![](<files/images/Domain Adaptation.png>){.img-wide}
 
 ### Robust Deep Learning for Medical Image Analysis under Domain Shift and Weak Supervision
@@ -65,7 +65,7 @@ format:
 [Responsible: [Yiheng Xiong](mailto:yiheng.xiong@uni-ulm.de)]{.research-responsible}
 :::
 
-::: {.g-col-12 .research-card}
+::: {.research-card}
 ![](<files/images/Postoperative Pulmonary Complication Risk.png>){.img-wide}
 
 ### Multimodal AI Pipeline for Postoperative Pulmonary Complication Risk

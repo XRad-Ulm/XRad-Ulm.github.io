@@ -11,7 +11,10 @@ sidebar: false
 
 [Notes: † indicates shared senior authorship. \* indicates equal contribution.]{.pub-note}
 
-## 2027 {.pub-year}
+::: {.pub-years aria-label="Jump to year"}
+:::
+
+## 2027 {#year-2027 .pub-year}
 
 ::: {.pub-entry}
 [[How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging](https://arxiv.org/pdf/2608.12035)]{.pub-title}
@@ -23,7 +26,17 @@ sidebar: false
 [[arXiv](https://arxiv.org/pdf/2608.12035) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
 :::
 
-## 2026 {.pub-year}
+## 2026 {#year-2026 .pub-year}
+
+::: {.pub-entry}
+[[Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification](https://arxiv.org/pdf/2502.08997)]{.pub-title}
+
+[**Luisa Gallée**, Catharina Silvia Lisson, Meinrad Beer, **Michael Götz**]{.pub-authors}
+
+[IEEE Journal of Biomedical and Health Informatics (JBHI), 2026]{.pub-venue}
+
+[[arXiv](https://arxiv.org/pdf/2502.08997) [Code](https://github.com/XRad-Ulm/HierViT)]{.pub-links}
+:::
 
 ::: {.pub-entry}
 [[A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans](https://arxiv.org/pdf/2608.21140)]{.pub-title}
@@ -40,7 +53,7 @@ sidebar: false
 
 [**Yiheng Xiong**, **Luisa Gallée**, **Daniel Santak Wolf**, **Heiko Hillenhagen**, **Michael Götz**]{.pub-authors}
 
-[MICCAI Workshop on Applications of Medical AI (AMAI), 2026]{.pub-venue}
+[MICCAI Workshop on Applications of Medical AI (AMAI), 2026 · [Oral]{.pub-highlight}]{.pub-venue}
 
 [[arXiv](https://arxiv.org/pdf/2607.28125) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
 :::
@@ -68,7 +81,7 @@ sidebar: false
 ::: {.pub-entry}
 [[Machine Learning-Based Radiomics for Bladder Cancer Staging: Evaluating the Role of Imaging Timing in Differentiating T2 from T3 Disease](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0046-1817596)]{.pub-title}
 
-[Catharina Silvia Lisson, Christoph Gerhard Lisson, Konstantin Müller, Hannah Stöckl, Friedemann Zengerling, Meinrad Beer, **Michael Götz**]{.pub-authors}
+[Catharina Silvia Lisson, Christoph Gerhard Lisson, **Luisa Gallée**, Konstantin Müller, **Sabitha Manoj**, Hannah Stöckl, Friedemann Zengerling, Christian Bolenz, Meinrad Beer, **Michael Götz**]{.pub-authors}
 
 [RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2026]{.pub-venue}
 
@@ -85,7 +98,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1002/path.6491)]{.pub-links}
 :::
 
-## 2025 {.pub-year}
+## 2025 {#year-2025 .pub-year}
 
 ::: {.pub-entry}
 [[Non-Hodgkin's lymphoma classification using 3D radiomics machine learning models for precision imaging in oncology](https://doi.org/10.1186/s12880-025-02006-3)]{.pub-title}
@@ -114,7 +127,7 @@ sidebar: false
 
 [**Luisa Gallée**, Catharina Silvia Lisson, Christoph Gerhard Lisson, Daniela Drees, Felix Weig, Daniel Vogele, Meinrad Beer, **Michael Götz**]{.pub-authors}
 
-[MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC), 2025]{.pub-venue}
+[MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC), 2025 · [Oral]{.pub-highlight}]{.pub-venue}
 
 [[arXiv](https://arxiv.org/pdf/2508.00639) [Code](https://github.com/XRad-Ulm/Attribute-Conditional-Diffusion-Model)]{.pub-links}
 :::
@@ -140,13 +153,13 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[[Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification](https://arxiv.org/pdf/2502.08997)]{.pub-title}
+[[Proto-Caps: interpretable medical image classification using prototype learning and privileged information](https://doi.org/10.7717/peerj-cs.2908)]{.pub-title}
 
-[**Luisa Gallée**, Catharina Silvia Lisson, Meinrad Beer, **Michael Götz**]{.pub-authors}
+[**Luisa Gallée**, Catharina Silvia Lisson, Timo Ropinski, Meinrad Beer, **Michael Götz**]{.pub-authors}
 
-[arXiv preprint, 2025]{.pub-venue}
+[PeerJ Computer Science, 2025]{.pub-venue}
 
-[[arXiv](https://arxiv.org/pdf/2502.08997) [Code](https://github.com/XRad-Ulm/HierViT)]{.pub-links}
+[[Paper](https://doi.org/10.7717/peerj-cs.2908) [Code](https://github.com/XRad-Ulm/Proto-Caps)]{.pub-links}
 :::
 
 ::: {.pub-entry}
@@ -179,7 +192,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1016/j.jpi.2025.100421)]{.pub-links}
 :::
 
-## 2024 {.pub-year}
+## 2024 {#year-2024 .pub-year}
 
 ::: {.pub-entry}
 [[Deep learning-based classification and segmentation of whole-body 18F-FDG PET/CT examinations using manually generated segmentation masks](https://doi.org/10.1007/s00259-024-06838-z)]{.pub-title}
@@ -226,7 +239,7 @@ sidebar: false
 
 [**Luisa Gallée**, Catharina Silvia Lisson, Christoph Gerhard Lisson, Daniela Drees, Felix Weig, Daniel Vogele, Meinrad Beer, **Michael Götz**]{.pub-authors}
 
-[World Conference on Explainable Artificial Intelligence (xAI), 2024]{.pub-venue}
+[World Conference on Explainable Artificial Intelligence (xAI), 2024 · [Oral]{.pub-highlight}]{.pub-venue}
 
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-63787-2_3)]{.pub-links}
 :::
@@ -271,7 +284,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1055/a-2211-3199)]{.pub-links}
 :::
 
-## 2023 {.pub-year}
+## 2023 {#year-2023 .pub-year}
 
 ::: {.pub-entry}
 [[Self-supervised pre-training with contrastive and masked autoencoder methods for dealing with small datasets in deep learning for medical imaging](https://arxiv.org/pdf/2308.06534)]{.pub-title}
@@ -465,7 +478,7 @@ sidebar: false
 [[Paper](https://doi.org/10.58530/2023/1856)]{.pub-links}
 :::
 
-## 2022 {.pub-year}
+## 2022 {#year-2022 .pub-year}
 
 ::: {.pub-entry}
 [[Weakly supervised learning with positive and unlabeled data for automatic brain tumor segmentation](https://www.mdpi.com/2076-3417/12/21/10763)]{.pub-title}
@@ -547,7 +560,7 @@ sidebar: false
 [[Paper](https://doi.org/10.58530/2022/3387)]{.pub-links}
 :::
 
-## 2021 {.pub-year}
+## 2021 {#year-2021 .pub-year}
 
 ::: {.pub-entry}
 [[P-018: Automatic analysis of magnetic resonance imaging in multiple myeloma patients: deep-learning based pelvic bone marrow segmentation and radiomics analysis for prediction of plasma cell infiltration](https://doi.org/10.1016/s2152-2650(21)02152-2)]{.pub-title}
@@ -579,7 +592,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1097/rli.0000000000000745)]{.pub-links}
 :::
 
-## 2020 {.pub-year}
+## 2020 {#year-2020 .pub-year}
 
 ::: {.pub-entry}
 [[The image biomarker standardization initiative: standardized quantitative radiomics for high-throughput image-based phenotyping](https://doi.org/10.1148/radiol.2020191145)]{.pub-title}
@@ -601,7 +614,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1038/s41598-020-57739-8)]{.pub-links}
 :::
 
-## 2019 {.pub-year}
+## 2019 {#year-2019 .pub-year}
 
 ::: {.pub-entry}
 [[Response to Letter: "Radiomic Machine Learning: Is It Really a Useful Method for the Characterization of Prostate Cancer?"](https://doi.org/10.1148/radiol.2019182940)]{.pub-title}
@@ -623,7 +636,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1016/j.radonc.2018.11.021)]{.pub-links}
 :::
 
-## 2018 {.pub-year}
+## 2018 {#year-2018 .pub-year}
 
 ::: {.pub-entry}
 [[Correlation between genomic index lesions and mpMRI and 68Ga-PSMA-PET/CT imaging features in primary prostate cancer](https://doi.org/10.1038/s41598-018-35058-3)]{.pub-title}
@@ -678,7 +691,7 @@ sidebar: false
 ::: {.pub-entry}
 [[Bi-institutioneller Vergleich manueller mit automatisch durch ein Adversarial Neural Network erstellten Prostatasegmentationen](https://doi.org/10.1055/s-0038-1641463)]{.pub-title}
 
-[David Bonekamp, David Bonekamp, Tobias Penzkofer, Simon Kohl, Alexander Baur, Jan Philipp Radtke, et al., **Michael Götz**, et al.]{.pub-authors}
+[David Bonekamp, Tobias Penzkofer, Simon Kohl, Alexander Baur, Jan Philipp Radtke, et al., **Michael Götz**, et al.]{.pub-authors}
 
 [RöFo-Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 2018]{.pub-venue}
 
@@ -695,7 +708,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1016/j.juro.2018.02.2164)]{.pub-links}
 :::
 
-## 2017 {.pub-year}
+## 2017 {#year-2017 .pub-year}
 
 ::: {.pub-entry}
 [[Prediction of malignancy by a radiomic signature from contrast agent‐free diffusion MRI in suspicious breast lesions found on screening mammography](https://doi.org/10.1002/jmri.25606)]{.pub-title}
@@ -757,7 +770,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1007/978-3-319-66179-7_16)]{.pub-links}
 :::
 
-## 2016 {.pub-year}
+## 2016 {#year-2016 .pub-year}
 
 ::: {.pub-entry}
 [[Large-scale radiomic profiling of recurrent glioblastoma identifies an imaging predictor for stratifying anti-angiogenic treatment response](https://doi.org/10.1158/1078-0432.ccr-16-0702)]{.pub-title}
@@ -870,16 +883,6 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[[Electromagnetic organ tracking allows for real-time compensation of tissue shift in image-guided laparoscopic rectal surgery: results of a phantom study](https://doi.org/10.1007/s00464-015-4231-9)]{.pub-title}
-
-[Martin Wagner, Matthias Gondan, Clemens Zöllner, Josephine J. Wünscher, Felix Nickel, Leila Albala, et al., **Michael Götz**, et al.]{.pub-authors}
-
-[Surgical Endoscopy, 2016]{.pub-venue}
-
-[[Paper](https://doi.org/10.1007/s00464-015-4231-9)]{.pub-links}
-:::
-
-::: {.pub-entry}
 [Similarity based fusion of multiple Regions of Interests for MR sequence evaluation]{.pub-title}
 
 [**Michael Götz**, Christian Weber, Klaus H. Maier-Hein]{.pub-authors}
@@ -897,7 +900,7 @@ sidebar: false
 [[Paper](https://doi.org/10.1109/tmi.2015.2463078)]{.pub-links}
 :::
 
-## 2015 {.pub-year}
+## 2015 {#year-2015 .pub-year}
 
 ::: {.pub-entry}
 [[Input data adaptive learning (IDAL) for sub-acute ischemic stroke lesion segmentation](https://doi.org/10.1007/978-3-319-30858-6_25)]{.pub-title}
@@ -957,7 +960,7 @@ sidebar: false
 [Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), 2015]{.pub-venue}
 :::
 
-## 2014 {.pub-year}
+## 2014 {#year-2014 .pub-year}
 
 ::: {.pub-entry}
 [[Using Linked Data and Web APIs for Automating the Pre-processing of Medical Images](https://ceur-ws.org/Vol-1264/cold2014_GemmekeMPGWKNMR.pdf)]{.pub-title}

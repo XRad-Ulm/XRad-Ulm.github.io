@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-f1ecb053a10f5b9a1a6aecac85bd9925.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0ffe5414e5b77ad9bf2b03d154fe2aae.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +67,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Inter:wght@400;500;600;700&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&amp;display=swap" rel="stylesheet">
+<script>document.documentElement.classList.add("js");</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -156,8 +160,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- <center> -->
-<section id="address" class="level3">
+<div class="contact-grid">
+<section id="address" class="level3 contact-card">
 <h3 class="anchored" data-anchor-id="address">Address:</h3>
 <div class="contact-address">
 <p>Ulm University Medical Center<br>
@@ -165,14 +169,43 @@ Department of Diagnostic and Interventional Radiology<br>
 Albert-Einstein-Allee 23<br>
 89081 Ulm, Germany</p>
 </div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.7815541259906!2d9.950061776979124!3d48.42233797127638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479965d06250869d%3A0x95688a3b1f6d4e2e!2sUniversity%20Hospital%20Of%20Ulm!5e0!3m2!1sen!2sde!4v1743246441594!5m2!1sen!2sde" class="contact-map" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-<!-- </center> -->
-
-
 </section>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.7815541259906!2d9.950061776979124!3d48.42233797127638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479965d06250869d%3A0x95688a3b1f6d4e2e!2sUniversity%20Hospital%20Of%20Ulm!5e0!3m2!1sen!2sde!4v1743246441594!5m2!1sen!2sde" class="contact-map" title="Map: University Hospital Of Ulm" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</div>
+
+
 
 </main> <!-- /main -->
+<script>
+// Fade content in as it scrolls into view. Skipped when the reader prefers reduced motion.
+(function () {
+  var items = document.querySelectorAll(".research-card, .team-card, .home-links a, .contact-grid > *, .position-panel");
+  if (!("IntersectionObserver" in window) || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add("is-visible"); io.unobserve(e.target); }
+    });
+  }, { rootMargin: "0px 0px -8% 0px" });
+  items.forEach(function (el, i) {
+    el.classList.add("reveal");
+    el.style.setProperty("--reveal-delay", (i % 4) * 60 + "ms");
+    io.observe(el);
+  });
+})();
+
+// Publications: build the year index from the year headings.
+(function () {
+  var nav = document.querySelector(".pub-years");
+  if (!nav) return;
+  document.querySelectorAll("h2.pub-year").forEach(function (h) {
+    var a = document.createElement("a");
+    a.href = "#" + (h.id || h.closest("section").id);
+    a.textContent = h.textContent.trim();
+    nav.appendChild(a);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Brand colours sampled from the XRaD logo
+$primary: #26547c;
+$secondary: #445055;
+$body-color: #17222d;
+$link-color: $primary;
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+$headings-font-family: "Newsreader", "Iowan Old Style", Georgia, serif;
+$headings-font-weight: 500;
+$font-size-base: 1.0625rem;
+$line-height-base: 1.65;
+
+$navbar-bg: #ffffff;
+$navbar-fg: #3a4753;
+$navbar-hl: $primary;
+$footer-bg: #ffffff;
+$footer-fg: #5f6c78;
+$web-font-path: false; // fonts are loaded in _includes/head.html

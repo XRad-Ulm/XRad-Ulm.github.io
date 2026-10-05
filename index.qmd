@@ -7,25 +7,41 @@ page-navigation: false
 toc: false
 sidebar: false
 page-layout: full
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 100%
-  links:
-    - icon: hospital
-      text: Clinic
-      href: https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html
-      target: _blank
-    - icon: book
-      text: University
-      href: https://www.uni-ulm.de/en/
-      target: _blank
+title-block-style: none
+body-classes: home-page
 ---
 
-:::{#hero-heading}
+::: {.home-hero}
+
+::: {.hero-identity}
+
+<h1 class="hero-logo"><img src="files/images/XRAD_hoch_E_RGB.jpg" alt="XRaD – Experimental Radiology"></h1>
+
+[Ulm University Medical Center]{.hero-institution}
+
+::: {.hero-affiliations}
+<a href="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/schwerpunkte-sektionen/sektion-experimentelle-radiologie.html" class="affiliation affiliation-clinic" target="_blank" rel="noopener"><span class="visually-hidden">Clinic</span></a>
+<a href="https://www.uni-ulm.de/en/" class="affiliation affiliation-university" target="_blank" rel="noopener"><span class="visually-hidden">University</span></a>
+:::
+
+:::
+
+::: {.hero-statement}
 
 The vision of our newly founded "Experimental Radiology" section is the effective utilisation of radiological imaging. The potential of image data has not yet been fully utilised, particularly with regard to precision medicine. We are therefore working on pioneering and innovative methods in the field of machine learning, deep learning and computer vision to address the special challenges in radiology and thus enable better utilisation of data. Our special focus is on pioneering techniques for reliable, robust and efficient learning, especially with little, noisy or unusually annotated data.
 
-![](files/images/group_photo.png){width=100%}
+:::
 
+::: {.hero-photo}
+![](files/images/group_photo.png){fig-alt="XRaD group photo"}
+:::
+
+:::
+
+::: {.home-links}
+[[Research]{.home-link-label}](research.qmd)
+[[Publications]{.home-link-label}](publications.qmd)
+[[Team]{.home-link-label}](people.qmd)
+[[Open Positions]{.home-link-label}](open_positions.qmd)
+[[Contact]{.home-link-label}](contact.qmd)
 :::
