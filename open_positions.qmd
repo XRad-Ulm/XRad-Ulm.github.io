@@ -9,5 +9,5 @@ body-classes: open-positions-page
 ---
 
 ::: {.position-panel}
-We are always looking for new Bachelor, Master or PhD students. For more information, please contact the section head directly via [michael.goetz@uni-ulm.de](mailto:michael.goetz@uni-ulm.de).
+We are always looking for new Bachelor, Master and PhD students as well as PostDocs. For more information, please contact the group leader directly via [michael.goetz@uni-ulm.de](mailto:michael.goetz@uni-ulm.de).
 :::

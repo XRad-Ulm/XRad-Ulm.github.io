@@ -494,6 +494,16 @@ img {
   hyphens: manual;
 }
 
+.hero-statement p + p {
+  margin-top: 1em;
+  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.25rem);
+  color: var(--ink-2);
+}
+
+.hero-tagline {
+  font-weight: 500;
+}
+
 .hero-photo {
   grid-area: photo;
   position: relative;
@@ -935,7 +945,7 @@ img {
   display: block;
   margin-top: 0.3rem;
   font-family: var(--font-mono);
-  font-size: var(--fs-meta);
+  font-size: 1rem;
   font-weight: 500;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -1048,7 +1058,7 @@ img {
   }
 
   .team-role {
-    font-size: 0.6875rem;
+    font-size: 0.875rem;
     letter-spacing: 0.06em;
   }
 
