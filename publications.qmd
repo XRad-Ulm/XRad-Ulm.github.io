@@ -31,11 +31,11 @@ sidebar: false
 ::: {.pub-entry}
 [[Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification](https://arxiv.org/pdf/2502.08997)]{.pub-title}
 
-[**Luisa Gallée**, Catharina Silvia Lisson, Meinrad Beer, **Michael Götz**]{.pub-authors}
+[**Luisa Gallée**, Meinrad Beer, **Michael Götz**]{.pub-authors}
 
 [IEEE Journal of Biomedical and Health Informatics (JBHI), 2026]{.pub-venue}
 
-[[arXiv](https://arxiv.org/pdf/2502.08997) [Code](https://github.com/XRad-Ulm/HierViT)]{.pub-links}
+[[arXiv](https://arxiv.org/pdf/2502.08997) [Paper](https://ieeexplore.ieee.org/abstract/document/11730492) [Code](https://github.com/XRad-Ulm/HierViT)]{.pub-links}
 :::
 
 ::: {.pub-entry}
