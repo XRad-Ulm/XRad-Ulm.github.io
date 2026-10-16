@@ -23,7 +23,7 @@ sidebar: false
 
 [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027 · [Early Accept]{.pub-highlight}]{.pub-venue}
 
-[[arXiv](https://arxiv.org/pdf/2608.12035) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
+[[arXiv](https://arxiv.org/pdf/2608.12035) [Project Page](https://xiongyiheng.github.io/complete-uda-pipeline-site/)]{.pub-links}
 :::
 
 ## 2026 {#year-2026 .pub-year}
@@ -49,13 +49,13 @@ sidebar: false
 :::
 
 ::: {.pub-entry}
-[[Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging](https://arxiv.org/pdf/2607.28125)]{.pub-title}
+[[Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging](https://papers.miccai.org/miccai-2026-sat/paper/AMAI_036.pdf)]{.pub-title}
 
 [**Yiheng Xiong**, **Luisa Gallée**, **Daniel Santak Wolf**, **Heiko Hillenhagen**, **Michael Götz**]{.pub-authors}
 
 [MICCAI Workshop on Applications of Medical AI (AMAI), 2026 · [Oral]{.pub-highlight}]{.pub-venue}
 
-[[arXiv](https://arxiv.org/pdf/2607.28125) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline)]{.pub-links}
+[[arXiv](https://arxiv.org/pdf/2607.28125) [Paper](https://papers.miccai.org/miccai-2026-sat/paper/AMAI_036.pdf)]{.pub-links}
 :::
 
 ::: {.pub-entry}
@@ -109,7 +109,7 @@ sidebar: false
 
 [{{< fa trophy >}} Best Oral Presentation Award, BVM 2026]{.pub-award}
 
-[[arXiv](https://arxiv.org/pdf/2508.00549) [Paper](https://doi.org/10.1007/978-3-032-04971-1_65) [Code](https://wolfda95.github.io/your_other_left/)]{.pub-links}
+[[arXiv](https://arxiv.org/pdf/2508.00549) [Paper](https://doi.org/10.1007/978-3-032-04971-1_65) [Project Page](https://wolfda95.github.io/your_other_left/)]{.pub-links}
 :::
 
 ::: {.pub-entry}
