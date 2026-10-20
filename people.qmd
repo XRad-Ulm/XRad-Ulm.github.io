@@ -96,6 +96,16 @@ format:
 :::
 
 ::: {.team-card}
+![](files/profiles/josef_mayer.jpeg)
+
+[Josef Mayer]{.team-name}
+
+<span class="team-role">External PhD Student at <a href="https://www.nvision-quantum.com" target="_blank">Nvision</a></span>
+
+[{{< fa envelope >}}](mailto:josef@nvision-quantum.com){title="E-mail"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/josef-mayer-91491a21b/){title="LinkedIn" target="_blank"} [{{< fa brands github >}}](https://github.com/joemay96){title="Github" target="_blank"}
+:::
+
+::: {.team-card}
 ![](files/profiles/sabitha_manoj.JPG)
 
 [Sabitha Manoj]{.team-name}
