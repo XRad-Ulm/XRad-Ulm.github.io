@@ -35,7 +35,7 @@ We are interested in the effective utilisation of radiological image data, whose
 :::
 
 ::: {.hero-photo}
-![](files/images/group_photo.png){fig-alt="XRaD group photo"}
+![](files/images/group_photo.JPG){fig-alt="XRaD group photo"}
 :::
 
 :::
