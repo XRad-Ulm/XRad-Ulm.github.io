@@ -55,7 +55,7 @@ sidebar: false
 
 [MICCAI Workshop on Applications of Medical AI (AMAI), 2026 · [Oral]{.pub-highlight}]{.pub-venue}
 
-[[arXiv](https://arxiv.org/pdf/2607.28125) [Paper](https://papers.miccai.org/miccai-2026-sat/paper/AMAI_036.pdf)]{.pub-links}
+[[arXiv](https://arxiv.org/abs/2607.28125) [Code](https://github.com/xiongyiheng/Complete-Unsupervised-Domain-Adaptation-Pipeline/tree/main/two-level-algorithm-selection) [Paper](https://arxiv.org/pdf/2607.28125)]{.pub-links}
 :::
 
 ::: {.pub-entry}
